@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shaa! - Halaman Pribadi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F8F8FF; /* Warna latar belakang pastel */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #D0EFFF; /* Baby blue */
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            color: #FF6F91; /* Sunset pink */
+        }
+        section {
+            padding: 20px;
+        }
+        .portfolio {
+            margin-bottom: 20px;
+        }
+        .portfolio a {
+            color: #6A0D91; /* Ungu */
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .portfolio a:hover {
+            text-decoration: underline;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        .contact a {
+            color: #FF6F91; /* Sunset pink */
+            text-decoration: none;
+            display: block;
+            margin-bottom: 10px;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shaa!</h1>
+    </header>
+    <section>
+        <h2>Open Commission Art</h2>
+        <p>Selamat datang di halaman pribadi saya! Saya saat ini membuka komisi seni. Jika kamu tertarik, silakan hubungi saya melalui informasi kontak di bawah ini.</p>
+        
+        <div class="portfolio">
+            <h2>Portofolio</h2>
+            <p>Lihat karya saya di:</p>
+            <a href="https://t.me/rhereestore" target="_blank">Telegram</a> atau
+            <a href="https://www.instagram.com/shasaa.art" target="_blank">Instagram</a>
+        </div>
+
+        <div class="contact">
+            <h2>Kontak</h2>
+            <p>Hubungi saya melalui:</p>
+            <a href="https://wa.me/081326700129" target="_blank">WhatsApp</a>
+            <a href="https://t.me/rhereestore" target="_blank">Telegram</a>
+            <a href="https://www.instagram.com/shasaa.art" target="_blank">DM Instagram</a>
+        </div>
+    </section>
+</body>
+</html>
